@@ -1,0 +1,128 @@
+﻿
+@{
+    ViewBag.Title = "UserManagement";
+}
+
+
+
+<link rel="stylesheet" href="~/assets/dark-theme.css"/>
+
+
+
+<header class="mb-3">
+    <a href="#" class="burger-btn d-block d-xl-none">
+        <i class="bi bi-justify fs-3"></i>
+    </a>
+</header>
+
+<div class="page-heading ">
+    <div class="page-title">
+        <div class="row">
+            <div class="col-12 col-md-6 order-md-1 order-last">
+                <h3>User Management</h3>
+                <p class="text-subtitle text-muted">For user to check they list</p>
+            </div>
+            <div class="col-12 col-md-6 order-md-2 order-first">
+                @*<nav aria-label="breadcrumb" class="breadcrumb-header float-start float-lg-end">
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="index.html">Dashboard</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">DataTable</li>
+                        </ol>
+                    </nav>*@
+            </div>
+        </div>
+    </div>
+    <section class="section">
+        <div class="card">
+            <div class="card-header">
+                <div class="d-flex">
+                    <div class="btn-group me-1 mb-1">
+                        <button type="button" class="btn btn-secondary dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Search By
+                        </button>
+                        <div class="dropdown-menu" style="cursor:pointer">
+                            <span class="dropdown-item active" ng-click="searchBy = 0" ng-class="{'active': searchBy === 0}">Username</span>
+                            <span class="dropdown-item" ng-click="searchBy = 1" ng-class="{'active': searchBy === 1}">Full Name</span>
+                            <span class="dropdown-item" ng-click="searchBy = 2" ng-class="{'active': searchBy === 2}">Full Name Ar</span>
+                            <span class="dropdown-item" ng-click="searchBy = 3" ng-class="{'active': searchBy === 3}">Email</span>
+                        </div>
+                    </div>
+                    <div>
+                        <input type="text" ng-show="searchBy === 0" ng-model="tableParams.filter().Username" placeholder="Username" class="form-control" />
+                        <input type="text" ng-show="searchBy === 1" ng-model="tableParams.filter().FullName" placeholder="Full Name" class="form-control" />
+                        <input type="text" ng-show="searchBy === 2" ng-model="tableParams.filter().FullNameAr" placeholder="Full Name Ar" class="form-control" />
+                        <input type="text" ng-show="searchBy === 3" ng-model="tableParams.filter().Email" placeholder="Email" class="form-control" />
+                    </div>
+                </div>
+               
+               
+            </div>
+
+
+            <div class="card-body">
+
+
+
+
+
+                <table class="table table-striped" id="table1" ng-table="tableParams" show-filter="true">
+
+                    <tr ng-repeat="user in $data">
+
+                        <td data-title="'Username'" sortable="'Username'" class="fw-bold">{{user.Username}}</td>
+                        <td data-title="'Full Name'" sortable="'FullName'">{{user.FullName}}</td>
+                        <td data-title="'Full Name Ar'" sortable="'FullNameAr'">{{user.FullNameAr}}</td>
+                        <td data-title="'Email'" sortable="'Email'">{{user.Email}}</td>
+                        <td data-title="'Type'">{{user.Type}}</td>
+                        <td data-title="'Status'">
+                            <span class="badge" ng-class="{
+                                        'bg-warning': user.Status == 'pending',
+                                        'bg-success': user.Status == 'approved',
+                                        'bg-danger': user.Status == 'rejected'
+                                        }">{{user.Status}}</span>
+                        </td>
+
+                        <td data-title="'Locked'"><span class="badge" ng-class="{'bg-light-danger': user.IsLocked, 'bg-light-success': !user.IsLocked}">{{user.IsLocked? 'Locked' : 'Unlocked'}}</span></td>
+
+                        <td data-title="'Active'">
+                            <span class="badge"
+                                  ng-class="{'bg-light-success': user.IsActive, 'bg-light-danger': !user.IsActive}">
+                                {{user.IsActive ? 'Yes' : 'No'}}
+                            </span>
+                        </td>
+
+                        <td data-title="'Created By'">{{user.CreatedBy}}</td>
+
+
+                        <td>
+                            <button class="btn btn-warning btn-sm reject" ng-click="DoAction(rejectUser,user.UserId)" ng-show="user.Status === 'pending'">Reject</button>
+                            <button class="btn btn-success btn-sm accept" ng-click="DoAction(acceptUser,user.UserId)" ng-show="user.Status === 'pending'">Accept</button>
+                            <button class="btn btn-info btn-sm unlock" ng-click="DoAction(unlockUser,user.UserId)" ng-show="user.IsLocked === true">Unlock</button>
+                        </td>
+                        <td>
+                            <a class="reset" ng-click="DoAction(resetUserPassword,user.UserId)" style="cursor:pointer; text-decoration:underline;">Reset</a>
+
+                        </td>
+                        <td>
+                            <div class="d-flex justify-content-around">
+                                <a href="#!/editUser/{{user.UserId}}" class="link-info">Edit</a>
+                                <a ng-click="DoAction(deleteUser,user.UserId)" class="link-danger delete" style="cursor:pointer;">Delete</a>
+
+
+                            </div>
+                        </td>
+                    </tr>
+
+
+                </table>
+            </div>
+        </div>
+
+
+        <button class="btn btn-success" ng-click="ExportUsers_Excel()">
+            <i class="bi bi-file-earmark-excel"></i> Export to Excel
+        </button>
+    </section>
+</div>
+
+

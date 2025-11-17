@@ -1,0 +1,448 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE425D6-59DA-4B9B-9D14-E9031F056305}|LoginApp\\LoginApp.csproj|c:\\users\\trainee34\\source\\repos\\loginapp\\loginapp\\views\\home\\usermanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAE425D6-59DA-4B9B-9D14-E9031F056305}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\views\\home\\usermanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE425D6-59DA-4B9B-9D14-E9031F056305}|LoginApp\\LoginApp.csproj|C:\\Users\\Trainee34\\source\\repos\\LoginApp\\loginapp\\assets\\appsetting.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BAE425D6-59DA-4B9B-9D14-E9031F056305}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\assets\\appsetting.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE425D6-59DA-4B9B-9D14-E9031F056305}|LoginApp\\LoginApp.csproj|C:\\Users\\Trainee34\\source\\repos\\LoginApp\\loginapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAE425D6-59DA-4B9B-9D14-E9031F056305}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE425D6-59DA-4B9B-9D14-E9031F056305}|LoginApp\\LoginApp.csproj|c:\\users\\trainee34\\source\\repos\\loginapp\\loginapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAE425D6-59DA-4B9B-9D14-E9031F056305}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE425D6-59DA-4B9B-9D14-E9031F056305}|LoginApp\\LoginApp.csproj|c:\\users\\trainee34\\source\\repos\\loginapp\\loginapp\\assets\\dark-theme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BAE425D6-59DA-4B9B-9D14-E9031F056305}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\assets\\dark-theme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE425D6-59DA-4B9B-9D14-E9031F056305}|LoginApp\\LoginApp.csproj|C:\\Users\\Trainee34\\source\\repos\\LoginApp\\loginapp\\views\\home\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAE425D6-59DA-4B9B-9D14-E9031F056305}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\views\\home\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE425D6-59DA-4B9B-9D14-E9031F056305}|LoginApp\\LoginApp.csproj|C:\\Users\\Trainee34\\source\\repos\\LoginApp\\loginapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAE425D6-59DA-4B9B-9D14-E9031F056305}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE425D6-59DA-4B9B-9D14-E9031F056305}|LoginApp\\LoginApp.csproj|C:\\Users\\Trainee34\\source\\repos\\LoginApp\\loginapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE425D6-59DA-4B9B-9D14-E9031F056305}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE425D6-59DA-4B9B-9D14-E9031F056305}|LoginApp\\LoginApp.csproj|c:\\users\\trainee34\\source\\repos\\loginapp\\loginapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAE425D6-59DA-4B9B-9D14-E9031F056305}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE425D6-59DA-4B9B-9D14-E9031F056305}|LoginApp\\LoginApp.csproj|c:\\users\\trainee34\\source\\repos\\loginapp\\loginapp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE425D6-59DA-4B9B-9D14-E9031F056305}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EB392B-036B-48F5-9539-915B38B39DBF}|API\\API.csproj|c:\\users\\trainee34\\source\\repos\\loginapp\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EB392B-036B-48F5-9539-915B38B39DBF}|API\\API.csproj|solutionrelative:api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1309313-F1AF-410B-BC2B-8D0A3EEA70D0}|AdminDashboard.Services\\AdminDashboard.Services.csproj|c:\\users\\trainee34\\source\\repos\\loginapp\\admindashboard.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1309313-F1AF-410B-BC2B-8D0A3EEA70D0}|AdminDashboard.Services\\AdminDashboard.Services.csproj|solutionrelative:admindashboard.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1309313-F1AF-410B-BC2B-8D0A3EEA70D0}|AdminDashboard.Services\\AdminDashboard.Services.csproj|c:\\users\\trainee34\\source\\repos\\loginapp\\admindashboard.services\\dtos\\userdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1309313-F1AF-410B-BC2B-8D0A3EEA70D0}|AdminDashboard.Services\\AdminDashboard.Services.csproj|solutionrelative:admindashboard.services\\dtos\\userdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE425D6-59DA-4B9B-9D14-E9031F056305}|LoginApp\\LoginApp.csproj|c:\\users\\trainee34\\source\\repos\\loginapp\\loginapp\\views\\account\\userprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAE425D6-59DA-4B9B-9D14-E9031F056305}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\views\\account\\userprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE425D6-59DA-4B9B-9D14-E9031F056305}|LoginApp\\LoginApp.csproj|c:\\users\\trainee34\\source\\repos\\loginapp\\loginapp\\views\\home\\sendemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAE425D6-59DA-4B9B-9D14-E9031F056305}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\views\\home\\sendemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1309313-F1AF-410B-BC2B-8D0A3EEA70D0}|AdminDashboard.Services\\AdminDashboard.Services.csproj|c:\\users\\trainee34\\source\\repos\\loginapp\\admindashboard.services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1309313-F1AF-410B-BC2B-8D0A3EEA70D0}|AdminDashboard.Services\\AdminDashboard.Services.csproj|solutionrelative:admindashboard.services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1309313-F1AF-410B-BC2B-8D0A3EEA70D0}|AdminDashboard.Services\\AdminDashboard.Services.csproj|c:\\users\\trainee34\\source\\repos\\loginapp\\admindashboard.services\\securityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1309313-F1AF-410B-BC2B-8D0A3EEA70D0}|AdminDashboard.Services\\AdminDashboard.Services.csproj|solutionrelative:admindashboard.services\\securityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9C8B48-2B9D-4EE3-85E3-6B48F4844E57}|AdminDashboard.Repositories\\AdminDashboard.Repositories.csproj|c:\\users\\trainee34\\source\\repos\\loginapp\\admindashboard.repositories\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E9C8B48-2B9D-4EE3-85E3-6B48F4844E57}|AdminDashboard.Repositories\\AdminDashboard.Repositories.csproj|solutionrelative:admindashboard.repositories\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1309313-F1AF-410B-BC2B-8D0A3EEA70D0}|AdminDashboard.Services\\AdminDashboard.Services.csproj|c:\\users\\trainee34\\source\\repos\\loginapp\\admindashboard.services\\dtos\\emaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1309313-F1AF-410B-BC2B-8D0A3EEA70D0}|AdminDashboard.Services\\AdminDashboard.Services.csproj|solutionrelative:admindashboard.services\\dtos\\emaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9C8B48-2B9D-4EE3-85E3-6B48F4844E57}|AdminDashboard.Repositories\\AdminDashboard.Repositories.csproj|c:\\users\\trainee34\\source\\repos\\loginapp\\admindashboard.repositories\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E9C8B48-2B9D-4EE3-85E3-6B48F4844E57}|AdminDashboard.Repositories\\AdminDashboard.Repositories.csproj|solutionrelative:admindashboard.repositories\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1309313-F1AF-410B-BC2B-8D0A3EEA70D0}|AdminDashboard.Services\\AdminDashboard.Services.csproj|c:\\users\\trainee34\\source\\repos\\loginapp\\admindashboard.services\\dtos\\loginresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1309313-F1AF-410B-BC2B-8D0A3EEA70D0}|AdminDashboard.Services\\AdminDashboard.Services.csproj|solutionrelative:admindashboard.services\\dtos\\loginresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE425D6-59DA-4B9B-9D14-E9031F056305}|LoginApp\\LoginApp.csproj|c:\\users\\trainee34\\source\\repos\\loginapp\\loginapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE425D6-59DA-4B9B-9D14-E9031F056305}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1309313-F1AF-410B-BC2B-8D0A3EEA70D0}|AdminDashboard.Services\\AdminDashboard.Services.csproj|c:\\users\\trainee34\\source\\repos\\loginapp\\admindashboard.services\\dtos\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1309313-F1AF-410B-BC2B-8D0A3EEA70D0}|AdminDashboard.Services\\AdminDashboard.Services.csproj|solutionrelative:admindashboard.services\\dtos\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF5D7F3-DEC6-4C68-BDE7-1C7E891C9DAF}|AdminDashboard.common\\AdminDashboard.Domain.csproj|C:\\Users\\Trainee34\\source\\repos\\LoginApp\\admindashboard.common\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF5D7F3-DEC6-4C68-BDE7-1C7E891C9DAF}|AdminDashboard.common\\AdminDashboard.Domain.csproj|solutionrelative:admindashboard.common\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9C8B48-2B9D-4EE3-85E3-6B48F4844E57}|AdminDashboard.Repositories\\AdminDashboard.Repositories.csproj|C:\\Users\\Trainee34\\source\\repos\\LoginApp\\admindashboard.repositories\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E9C8B48-2B9D-4EE3-85E3-6B48F4844E57}|AdminDashboard.Repositories\\AdminDashboard.Repositories.csproj|solutionrelative:admindashboard.repositories\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\LoginApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LoginApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\LoginApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LoginApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAcwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T09:44:24.034Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsetting.js",
+              "DocumentMoniker": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\LoginApp\\assets\\appsetting.js",
+              "RelativeDocumentMoniker": "LoginApp\\assets\\appsetting.js",
+              "ToolTip": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\LoginApp\\assets\\appsetting.js",
+              "RelativeToolTip": "LoginApp\\assets\\appsetting.js",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAAAIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-09T06:33:48.555Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\LoginApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LoginApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\LoginApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LoginApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T07:30:05.783Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserManagement.cshtml",
+              "DocumentMoniker": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\LoginApp\\Views\\Home\\UserManagement.cshtml",
+              "RelativeDocumentMoniker": "LoginApp\\Views\\Home\\UserManagement.cshtml",
+              "ToolTip": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\LoginApp\\Views\\Home\\UserManagement.cshtml",
+              "RelativeToolTip": "LoginApp\\Views\\Home\\UserManagement.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-09T10:39:43.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\AdminDashboard.Services\\UserService.cs",
+              "RelativeDocumentMoniker": "AdminDashboard.Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\AdminDashboard.Services\\UserService.cs",
+              "RelativeToolTip": "AdminDashboard.Services\\UserService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAnwD0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T07:43:11.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T08:12:02.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\LoginApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "LoginApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\LoginApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "LoginApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAwwIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T06:55:14.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dark-theme.css",
+              "DocumentMoniker": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\LoginApp\\assets\\dark-theme.css",
+              "RelativeDocumentMoniker": "LoginApp\\assets\\dark-theme.css",
+              "ToolTip": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\LoginApp\\assets\\dark-theme.css",
+              "RelativeToolTip": "LoginApp\\assets\\dark-theme.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-10T10:31:24.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\LoginApp\\Views\\Home\\AddUser.cshtml",
+              "RelativeDocumentMoniker": "LoginApp\\Views\\Home\\AddUser.cshtml",
+              "ToolTip": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\LoginApp\\Views\\Home\\AddUser.cshtml",
+              "RelativeToolTip": "LoginApp\\Views\\Home\\AddUser.cshtml",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAcwK4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-09T07:04:49.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\LoginApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "LoginApp\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\LoginApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "LoginApp\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-09T08:53:15.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\LoginApp\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "LoginApp\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\LoginApp\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "LoginApp\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-09T06:34:06.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\LoginApp\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "LoginApp\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\LoginApp\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "LoginApp\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T06:16:26.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\AdminDashboard.Services\\Dtos\\UserDetailDto.cs",
+              "RelativeDocumentMoniker": "AdminDashboard.Services\\Dtos\\UserDetailDto.cs",
+              "ToolTip": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\AdminDashboard.Services\\Dtos\\UserDetailDto.cs",
+              "RelativeToolTip": "AdminDashboard.Services\\Dtos\\UserDetailDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T10:07:49.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\LoginApp\\Views\\Account\\UserProfile.cshtml",
+              "RelativeDocumentMoniker": "LoginApp\\Views\\Account\\UserProfile.cshtml",
+              "ToolTip": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\LoginApp\\Views\\Account\\UserProfile.cshtml",
+              "RelativeToolTip": "LoginApp\\Views\\Account\\UserProfile.cshtml",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwF4AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T08:23:41.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SendEmail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\LoginApp\\Views\\Home\\SendEmail.cshtml",
+              "RelativeDocumentMoniker": "LoginApp\\Views\\Home\\SendEmail.cshtml",
+              "ToolTip": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\LoginApp\\Views\\Home\\SendEmail.cshtml",
+              "RelativeToolTip": "LoginApp\\Views\\Home\\SendEmail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T07:18:50.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\AdminDashboard.Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "AdminDashboard.Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\AdminDashboard.Services\\EmailService.cs",
+              "RelativeToolTip": "AdminDashboard.Services\\EmailService.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAQwM0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T12:29:03.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SecurityService.cs",
+              "DocumentMoniker": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\AdminDashboard.Services\\SecurityService.cs",
+              "RelativeDocumentMoniker": "AdminDashboard.Services\\SecurityService.cs",
+              "ToolTip": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\AdminDashboard.Services\\SecurityService.cs",
+              "RelativeToolTip": "AdminDashboard.Services\\SecurityService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T12:15:38.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginResultDto.cs",
+              "DocumentMoniker": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\AdminDashboard.Services\\Dtos\\LoginResultDto.cs",
+              "RelativeDocumentMoniker": "AdminDashboard.Services\\Dtos\\LoginResultDto.cs",
+              "ToolTip": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\AdminDashboard.Services\\Dtos\\LoginResultDto.cs",
+              "RelativeToolTip": "AdminDashboard.Services\\Dtos\\LoginResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T08:43:47.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\AdminDashboard.Repositories\\UserRepo.cs",
+              "RelativeDocumentMoniker": "AdminDashboard.Repositories\\UserRepo.cs",
+              "ToolTip": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\AdminDashboard.Repositories\\UserRepo.cs",
+              "RelativeToolTip": "AdminDashboard.Repositories\\UserRepo.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAIAwwFQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:57:33.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmailDto.cs",
+              "DocumentMoniker": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\AdminDashboard.Services\\Dtos\\EmailDto.cs",
+              "RelativeDocumentMoniker": "AdminDashboard.Services\\Dtos\\EmailDto.cs",
+              "ToolTip": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\AdminDashboard.Services\\Dtos\\EmailDto.cs",
+              "RelativeToolTip": "AdminDashboard.Services\\Dtos\\EmailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T09:38:58.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\AdminDashboard.Repositories\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AdminDashboard.Repositories\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\AdminDashboard.Repositories\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "AdminDashboard.Repositories\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T07:36:57.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\LoginApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LoginApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\LoginApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LoginApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T07:18:25.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UpdateProfileDto.cs",
+              "DocumentMoniker": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\AdminDashboard.Services\\Dtos\\UpdateProfileDto.cs",
+              "RelativeDocumentMoniker": "AdminDashboard.Services\\Dtos\\UpdateProfileDto.cs",
+              "ToolTip": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\AdminDashboard.Services\\Dtos\\UpdateProfileDto.cs",
+              "RelativeToolTip": "AdminDashboard.Services\\Dtos\\UpdateProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:41:02.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\AdminDashboard.common\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "AdminDashboard.common\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\AdminDashboard.common\\Entities\\User.cs",
+              "RelativeToolTip": "AdminDashboard.common\\Entities\\User.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA2wDQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T07:25:17.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\AdminDashboard.Repositories\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "AdminDashboard.Repositories\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Trainee34\\source\\repos\\LoginApp\\AdminDashboard.Repositories\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "AdminDashboard.Repositories\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T07:33:23.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

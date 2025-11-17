@@ -1,0 +1,134 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section styles {
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="~/assets/assets/css/bootstrap.css">
+    <link rel="stylesheet" href="~/assets/assets/vendors/bootstrap-icons/bootstrap-icons.css">
+    <link rel="stylesheet" href="~/assets/assets/css/app.css">
+    <link rel="stylesheet" href="~/assets/assets/css/pages/auth.css">
+}
+
+<div id="auth" ng-controller="registerCtrl">
+
+    <div class="row h-100">
+        <div class="col-lg-5 col-12">
+            <div id="auth-left">
+                <div class="auth-logo">
+                    <a href="index.html"><img src="~/assets/assets/images/logo/logo.png" alt="Logo"></a>
+                </div>
+                <h1 class="auth-title">Sign Up</h1>
+                <p class="auth-subtitle mb-5">Input your data to register to our website.</p>
+
+                <form name="regForm">
+                    <div ng-show="step === 1">
+                        <div class="form-group position-relative has-icon-left mb-4">
+                            <input type="text" class="form-control form-control-xl" name="FirstName" placeholder="First Name" required ng-model="user.FirstName">
+                            <div class="form-control-icon">
+                                <i class="bi bi-person"></i>
+                            </div>
+                            <div class="invalid-feedback d-block" ng-show="!(user.FirstName || '').trim() && nextClicked">
+                                <i class="bx bx-radio-circle"></i>
+                                First name is required.
+                            </div>
+                        </div>
+                        <div class="form-group position-relative has-icon-left mb-4">
+                            <input type="text" class="form-control form-control-xl" name="LastName" placeholder="Last Name" required ng-model="user.LastName">
+                            <div class="form-control-icon">
+                                <i class="bi bi-person"></i>
+                            </div>
+                            <div class="invalid-feedback d-block"  ng-show="!(user.LastName || '').trim() && nextClicked">
+                                <i class="bx bx-radio-circle"></i>
+                                Last name is required.
+                            </div>
+                        </div>
+                        <div class="form-group position-relative has-icon-left mb-4">
+                            <input type="text" class="form-control form-control-xl" name="FirstNameAr" placeholder="First Name Arabic" ng-model="user.FirstNameAr" arabic>
+                            <div class="form-control-icon">
+                                <i class="bi bi-person"></i>
+                            </div>
+                        </div>
+                        <div class="form-group position-relative has-icon-left mb-4">
+                            <input type="text" class="form-control form-control-xl" placeholder="Last Name Arabic" ng-model="user.LastNameAr" arabic>
+                            <div class="form-control-icon">
+                                <i class="bi bi-person"></i>
+                            </div>
+                        </div>
+                        <div class="form-group position-relative has-icon-left mb-4">
+                            <input type="text" class="form-control form-control-xl" name="Phone" placeholder="Phone" ng-model="user.Phone" phone-number>
+                            <div class="form-control-icon"> 
+                                <i class="fa-solid fa-phone" style="font-size:24px;"></i>
+
+                            </div>
+                        </div>
+                        <button type="button" class="btn btn-primary btn-block btn-lg shadow-lg mt-5" ng-click="next()">Next →</button>
+
+                    </div>
+                    <div ng-show="step === 2">
+                        <div class="form-group position-relative has-icon-left mb-4">
+                            <input type="text" class="form-control form-control-xl" name="Email" placeholder="Email" required ng-model="user.Email">
+                            <div class="form-control-icon">
+                                <i class="bi bi-envelope"></i>
+                            </div>
+                            <div class="invalid-feedback d-block" ng-show="regForm.$submitted && regForm.Email.$error.required">
+                                <i class="bx bx-radio-circle"></i>
+                                Last name is required.
+                            </div>
+                        </div>
+                        <div class="form-group position-relative has-icon-left mb-4">
+                            <input type="text" class="form-control form-control-xl" name="Username" placeholder="Username" required ng-model="user.Username">
+                            <div class="form-control-icon">
+                                <i class="bi bi-person"></i>
+                            </div>
+                            <div class="invalid-feedback d-block" ng-show="regForm.$submitted && regForm.Username.$error.required">
+                                <i class="bx bx-radio-circle"></i>
+                                Last name is required.
+                            </div>
+                        </div>
+                        <div class="form-group position-relative has-icon-left mb-4">
+                            <input type="password" class="form-control form-control-xl" name="Password" placeholder="Password" required ng-model="user.Password">
+                            <div class="form-control-icon">
+                                <i class="bi bi-shield-lock"></i>
+                            </div>
+                            <div class="invalid-feedback d-block" ng-show="regForm.$submitted && regForm.Password.$error.required">
+                                <i class="bx bx-radio-circle"></i>
+                                Last name is required.
+                            </div>
+                        </div>
+                        <div class="form-group position-relative has-icon-left mb-4">
+                            <input type="password" class="form-control form-control-xl" name="confirmPassword" placeholder="Confirm Password" required ng-model="confirmPassword">
+                            <div class="form-control-icon">
+                                <i class="bi bi-shield-lock"></i>
+                            </div>
+                            <div class="invalid-feedback d-block" ng-show="regForm.$submitted && regForm.confirmPassword.$error.required">
+                                <i class="bx bx-radio-circle"></i>
+                                Last name is required.
+                            </div>
+                        </div>
+                        <button type="button" class="btn btn-primary shadow-lg " ng-click="back()">← Back</button>
+                        <button type="button" class="btn btn-primary btn-block btn-lg shadow-lg mt-1" ng-click="register()">Sign Up</button>
+
+                    </div>
+
+
+                </form>
+                <div class="text-center mt-5 text-lg fs-4">
+                    <p class='text-gray-600'>
+                        Already have an account? <a href="@Url.Action("Login", "Account", new { })")
+                                                    class="font-bold">
+                            Log
+                            in
+                        </a>.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-7 d-none d-lg-block">
+            <div id="auth-right">
+
+            </div>
+        </div>
+    </div>
+
+</div>

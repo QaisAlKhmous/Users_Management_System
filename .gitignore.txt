@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+
+# NuGet
+packages/
+*.nupkg
+
+# Logs
+*.log
+
+# IIS Express
+*.db
+*.mdf
+*.ldf
+
+# Resharper
+_ReSharper*/

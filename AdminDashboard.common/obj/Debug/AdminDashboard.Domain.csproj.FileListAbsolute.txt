@@ -1,0 +1,12 @@
+C:\Users\Trainee34\source\repos\LoginApp\AdminDashboard.common\bin\Debug\AdminDashboard.common.dll.config
+C:\Users\Trainee34\source\repos\LoginApp\AdminDashboard.common\bin\Debug\AdminDashboard.common.dll
+C:\Users\Trainee34\source\repos\LoginApp\AdminDashboard.common\bin\Debug\AdminDashboard.common.pdb
+C:\Users\Trainee34\source\repos\LoginApp\AdminDashboard.common\bin\Debug\EntityFramework.dll
+C:\Users\Trainee34\source\repos\LoginApp\AdminDashboard.common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Trainee34\source\repos\LoginApp\AdminDashboard.common\bin\Debug\EntityFramework.xml
+C:\Users\Trainee34\source\repos\LoginApp\AdminDashboard.common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Trainee34\source\repos\LoginApp\AdminDashboard.common\obj\Debug\AdminDashboard.Domain.csproj.AssemblyReference.cache
+C:\Users\Trainee34\source\repos\LoginApp\AdminDashboard.common\obj\Debug\AdminDashboard.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Trainee34\source\repos\LoginApp\AdminDashboard.common\obj\Debug\AdminDas.C8BF7F09.Up2Date
+C:\Users\Trainee34\source\repos\LoginApp\AdminDashboard.common\obj\Debug\AdminDashboard.common.dll
+C:\Users\Trainee34\source\repos\LoginApp\AdminDashboard.common\obj\Debug\AdminDashboard.common.pdb
